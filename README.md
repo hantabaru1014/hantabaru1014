@@ -1,3 +1,16 @@
+# About hantabaru1014
+
+本業はWebアプリ作ってる会社でフルスタックエンジニアしてます。
+趣味ではゲームのMOD作ったりツール作ったりしてます。
+
+My day job is a full stack engineer at a company that makes web apps.
+As a hobby, I often make game mods and some tools.
+
+## Skills
+ある程度できる: C# / golang / TypeScript
+
+自信ないけどある程度書いたことある: python / Ruby (ruby on rails)
+
 ## Stats
 
 <p align="left"> 
